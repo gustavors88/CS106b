@@ -72,7 +72,7 @@
 			/>
 			<Tool
 				Name="VCManifestTool"
-				EmbedManifest="false"
+				EmbedManifest="true"
 			/>
 			<Tool
 				Name="VCXDCMakeTool"
@@ -190,15 +190,7 @@
 			UniqueIdentifier="{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}"
 			>
 			<File
-				RelativePath="..\StanfordCPPLib\console.h"
-				>
-			</File>
-			<File
-				RelativePath="..\StanfordCPPLib\simpio.h"
-				>
-			</File>
-			<File
-				RelativePath="..\StanfordCPPLib\StanfordCPPLib.lib"
+				RelativePath="..\..\..\..\StanfordCPPLib\StanfordCPPLib.lib"
 				>
 			</File>
 		</Filter>

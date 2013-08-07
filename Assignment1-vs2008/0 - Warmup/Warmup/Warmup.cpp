@@ -23,7 +23,6 @@ const int HASH_MASK = unsigned(-1) >> 1;  /* All 1 bits except the sign     */
 /* Function prototypes */
 
 int hashCode(string key);
-string GetLine();
 
 /* Main program to test the hash function */
 
