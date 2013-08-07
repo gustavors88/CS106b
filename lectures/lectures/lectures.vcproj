@@ -2,7 +2,7 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="9.00"
-	Name="lectures"
+	Name="Sandbox"
 	ProjectGUID="{1425BDEB-E863-427C-9C02-4256E5F532B9}"
 	RootNamespace="lectures"
 	TargetFrameworkVersion="196613"
@@ -162,15 +162,15 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
-				RelativePath=".\Ch01_01.cpp"
+				RelativePath=".\main.cpp"
 				>
 			</File>
 			<File
-				RelativePath=".\lecture02a.cpp"
+				RelativePath=".\printMultipleTimes.cpp"
 				>
 			</File>
 			<File
-				RelativePath=".\READ THIS FIRST.cpp"
+				RelativePath=".\tempConvert.cpp"
 				>
 			</File>
 		</Filter>
