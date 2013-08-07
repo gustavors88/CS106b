@@ -11,7 +11,6 @@
 
 #include <iostream>
 #include <string>
-#include "console.h"
 #include "simpio.h"
 using namespace std;
 
