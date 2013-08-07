@@ -32,7 +32,10 @@ int main() {
     string name = getLine();
     int code = hashCode(name);
     cout << "The hash code for your name is " << code << "." << endl;
-    return 0;
+
+	//ghetto way of pausing so you can see the output
+	name = getLine();
+	return 0;
 }
 
 /*
