@@ -10,9 +10,9 @@
 #include <string>
 using namespace std;
 
-void printMultipleTimes();
+void addOddNums();
 
 int main()
 {
-	printMultipleTimes();
+	addOddNums();
 }
